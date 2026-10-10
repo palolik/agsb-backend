@@ -6,6 +6,12 @@ const DEFAULT_CORS_ORIGINS = [
   'http://localhost:3000',
   'http://127.0.0.1:5173',
   'http://127.0.0.1:5174',
+  'https://adm.amighurisharabangladesh.com',
+  'http://adm.amighurisharabangladesh.com',
+  'https://www.amighurisharabangladesh.com',
+  'http://www.amighurisharabangladesh.com',
+  'https://amighurisharabangladesh.com',
+  'http://amighurisharabangladesh.com',
 ];
 
 // Comma-separated list, e.g. CORS_ORIGINS=https://amighurechi.com,https://admin.amighurechi.com
